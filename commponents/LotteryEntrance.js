@@ -113,7 +113,7 @@ export default function LotteryEntrance() {
                     <div>上一轮获奖地址: {recentWinner}</div>
                 </div>
             ) : (
-                <div>No Raffle Address Dete</div>
+                <div>请切换到Goerli测试网络</div>
             )}
         </div>
     )
